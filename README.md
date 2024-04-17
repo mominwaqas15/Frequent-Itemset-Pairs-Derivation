@@ -1,5 +1,7 @@
 # Itemset Pairs Visualization
 
+<img src="Result.png" alt="Result Logo" height = "350" width ="500">
+
 Boosting Business Brilliance: Unveiling Top-Selling Item Pairs in Grocery Stores!
 
 In the bustling world of grocery retail, understanding customer preferences is key to success. My project dives deep into transactional data to uncover the dynamic duo of grocery items that fly off the shelves together. By identifying these top-selling pairs, grocery store owners can optimize their product placements, promotions, and inventory management strategies. With these insights, businesses can supercharge their sales and create a shopping experience that delights customers.
