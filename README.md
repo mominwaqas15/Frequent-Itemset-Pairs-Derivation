@@ -19,7 +19,7 @@ Before running the code, make sure you have the following installed:
 
 You can install the required Python packages using pip:
 
-`pip install pandas matplotlib networkx`
+     `pip install pandas matplotlib networkx`
 
 
 ## Usage
@@ -34,7 +34,7 @@ cd Frequent-Itemset-Pairs-Derivation
 
 3. Run the Jupyter Notebook to generate the itemset pairs graph:
 
-`code.ipynb`
+- code.ipynb
 
 4. View the generated graph displayed in a new window.
 
